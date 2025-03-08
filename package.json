@@ -8,7 +8,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.8.2",
     "babel-polyfill": "^6.26.0",
     "echarts": "^4.5.0",
     "element-ui": "^2.9.2",
